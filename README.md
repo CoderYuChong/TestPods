@@ -9,8 +9,6 @@
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-
 ## Installation
 
 TestPod is available through [CocoaPods](http://cocoapods.org). To install
@@ -19,10 +17,6 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod "TestPod"
 ```
-
-## Author
-
-13088861503@163.com, 13088861503@163.com
 
 ## License
 
